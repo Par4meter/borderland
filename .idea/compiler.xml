@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="borderland_main" target="1.8" />
       <module name="borderland_test" target="1.8" />
+      <module name="dashboard_main" target="1.8" />
+      <module name="dashboard_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

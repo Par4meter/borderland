@@ -1,2 +1,3 @@
 rootProject.name = 'borderland'
+include 'dashboard'
 
