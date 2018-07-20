@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/borderland.iml" filepath="$PROJECT_DIR$/.idea/modules/borderland.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/borderland_main.iml" filepath="$PROJECT_DIR$/.idea/modules/borderland_main.iml" group="borderland" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/borderland_test.iml" filepath="$PROJECT_DIR$/.idea/modules/borderland_test.iml" group="borderland" />
+    </modules>
+  </component>
+</project>
