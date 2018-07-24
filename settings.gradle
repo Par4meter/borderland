@@ -1,3 +1,5 @@
 rootProject.name = 'borderland'
 include 'dashboard'
+include 'entity'
+include 'repository'
 

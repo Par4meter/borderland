@@ -6,6 +6,10 @@
       <module name="borderland_test" target="1.8" />
       <module name="dashboard_main" target="1.8" />
       <module name="dashboard_test" target="1.8" />
+      <module name="entity_main" target="1.8" />
+      <module name="entity_test" target="1.8" />
+      <module name="repository_main" target="1.8" />
+      <module name="repository_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
